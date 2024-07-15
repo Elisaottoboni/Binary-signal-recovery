@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to recover an unknown binary signal using the Metropolis-Hastings algorithm, a stochastic sampling technique. The objective is to estimate a binary parameter vector $\theta$ from noisy observations $y$. The project studies how the mean square error $(\operatorname{MSE})$ varies with the number of measurements $m$.
+This project aims to recover an unknown binary signal using the Metropolis-Hastings algorithm, a stochastic sampling technique. The objective is to estimate a binary parameter vector $\theta$ from noisy observations $y$. The project studies how the mean square error (MSE) varies with the number of measurements $m$.
 
 ## Problem Definition
 
@@ -37,4 +37,4 @@ The algorithm involves:
 
 ## Results
 
-The project evaluates the $\operatorname{MSE}$ for different numbers of measurements $m$ and identifies the minimum $m/d$ for reliable recovery of $\theta$.
+The project evaluates the MSE for different numbers of measurements $m$ and identifies the minimum $m/d$ for reliable recovery of $\theta$.
